@@ -54,20 +54,20 @@ deleteObject (Write)
 ### The Provider
 * Upon logging in, a provider will be prompted to register within their profile before they can begin using the app.
 * There is a button that they can click on where they will need to fill out the following information:
-** A General Info page with basic information including Name, DOB, Provider Role, etc.
-** A Contact Info page that includes a Phone Number, Address, etc.
-** A Work History page that can receive multiple work histories. There is also a button that allows for a resume pdf upload. NOTE: A user will need to click the `Attach` button below the resume upload to attach the resume and the `Add Work History Entry` button at the bottom of the page to submit the entry. This is the same process that will need to be followed for the following pages after the Work History page.
-** A Mission History page that can also receive multiple entries. There are also buttons that allow for an image upload.
-** An Education page that can receive multiple entries. There are buttons that allow for an image upload.
-** A Medical Credentials page that can receive multiple entries. There are buttons that allow for an image upload.
-** An Insurance page that can receive multiple entries. There are buttons that allow for an image upload.
+  * A General Info page with basic information including Name, DOB, Provider Role, etc.
+  * A Contact Info page that includes a Phone Number, Address, etc.
+  * A Work History page that can receive multiple work histories. There is also a button that allows for a resume pdf upload. NOTE: A user will need to click the `Attach` button below the resume upload to attach the resume and the `Add Work History Entry` button at the bottom of the page to submit the entry. This is the same process that will need to be followed for the following pages after the Work History page.
+  * A Mission History page that can also receive multiple entries. There are also buttons that allow for an image upload.
+  * An Education page that can receive multiple entries. There are buttons that allow for an image upload.
+  * A Medical Credentials page that can receive multiple entries. There are buttons that allow for an image upload.
+  * An Insurance page that can receive multiple entries. There are buttons that allow for an image upload.
 * Upon registration, a provider will be directed to a landing page where they can view and edit information about themselves in addition to view credentials. A red exclamation icon will show when a credential is within 3 months of expiring.
 * Upon review and approval from the administrator, a provider will be able to view the missions that have been posted and be able to apply to them by following the link in the table.
 ### The Administrator
 * Upon logging in, the administrator will be taken to their landing page where there will be three buttons:
-** The `PROVIDER MANAGEMENT` button will allow the admin to view registered providers. The admin can view each provider by clicking on their name or by typing their name into the search bar. A star icon will be next to provider names who the admin has approved to view missions.
-** The `MISSION MANAGEMENT` button will allow the admin to view missions that they have posted in addition to editing those missions by swiping left on the table.
-** The `CREATE MISSION` button will allow the admin to create a new mission that will be added to the mission table. 
+  * The `PROVIDER MANAGEMENT` button will allow the admin to view registered providers. The admin can view each provider by clicking on their name or by typing their name into the search bar. A star icon will be next to provider names who the admin has approved to view missions.
+  * The `MISSION MANAGEMENT` button will allow the admin to view missions that they have posted in addition to editing those missions by swiping left on the table.
+  * The `CREATE MISSION` button will allow the admin to create a new mission that will be added to the mission table. 
 
 ## Built With
 - React
