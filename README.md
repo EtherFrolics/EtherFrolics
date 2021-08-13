@@ -84,7 +84,7 @@ deleteObject (Write)
 - We would like to give a very special thanks to our instructor, Dane Smith, who has prepared us not only for this project, but also to take on a new career in software development. 
  
 ## Support
-If you have questions, concerns, or suggestions, please email one of our 5 developers who worked on this project:
+If you have questions, concerns, or suggestions, please email one of our 5 developers who worked on this project:  
 [Ben Hall](https://github.com/benjamhall) - [benjamhall@gmail.com](mailto:benjamhall@gmail.com)  
 
 [Emry Brisky](https://github.com/eabrisky) - [eabrisky@gmail.com](mailto:eabrisky@gmail.com)  
