@@ -8,9 +8,9 @@ Live Version deployed on Heroku at: [EtherFrolics](https://ether-frolics-1.herok
  
 ## Screen Shot
  
-![Home Page](/public/images/homepage.png)
+![Home Page](/public/images/homepage.jpeg)
 ![View Providers](/public/images/providers.jpeg)
-![Provider Landing](/public/images/providerlanding.png)
+![Admin Solo Provider View](/public/images/adminproviders.jpeg)
 ![Mission Page](/public/images/missions.jpeg)
  
 ### Prerequisites
