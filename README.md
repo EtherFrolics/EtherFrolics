@@ -79,14 +79,14 @@ The `CREATE MISSION` button will allow the admin to create a new mission that wi
 - PostgreSQL
  
 ## Acknowledgement
-We would like to thank our client, Justin, who envisioned this application and for trusting our team to turn his idea into a reality.
-We would also like to thank [Prime Digital Academy](www.primeacademy.io) for giving us the opportunity to take on this project.
-We would like to give a very special thanks to our instructor, Dane Smith, who has prepared us not only for this project, but also to take on a new career in software development. 
+- We would like to thank our client, Justin, who envisioned this application and for trusting our team to turn his idea into a reality.
+- We would also like to thank [Prime Digital Academy](www.primeacademy.io) for giving us the opportunity to take on this project.
+- We would like to give a very special thanks to our instructor, Dane Smith, who has prepared us not only for this project, but also to take on a new career in software development. 
  
 ## Support
 If you have questions, concerns, or suggestions, please email one of our 5 developers who worked on this project:
-[Ben Hall](https://github.com/benjamhall) - [benjamhall@gmail.com](mailto:benjamhall@gmail.com)
-[Emry Brisky](https://github.com/eabrisky) - [eabrisky@gmail.com](mailto:eabrisky@gmail.com)
-[Jacob Motes](https://github.com/jcm2583) - [jmotes2583@gmail.com](mailto:jmotes2583@gmail.com)
-[Preston Thomas](https://github.com/eabrisky) - [preston.thomas355@gmail.com](mailto:preston.thomas355@gmail.com)
-[Tucker Landis](https://github.com/TuckerLandis) - [landistuckerc@gmail.com](mailto:landistuckerc@gmail.com)
+[Ben Hall](https://github.com/benjamhall) - [benjamhall@gmail.com](mailto:benjamhall@gmail.com) /
+[Emry Brisky](https://github.com/eabrisky) - [eabrisky@gmail.com](mailto:eabrisky@gmail.com) /
+[Jacob Motes](https://github.com/jcm2583) - [jmotes2583@gmail.com](mailto:jmotes2583@gmail.com) /
+[Preston Thomas](https://github.com/eabrisky) - [preston.thomas355@gmail.com](mailto:preston.thomas355@gmail.com) /
+[Tucker Landis](https://github.com/TuckerLandis) - [landistuckerc@gmail.com](mailto:landistuckerc@gmail.com) /
